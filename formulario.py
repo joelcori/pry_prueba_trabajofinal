@@ -3,6 +3,8 @@ from tkinter import *
 from turtle import position
 
 from numpy import maximum, spacing
+class Formulario(win):
+    pass
 win = Tk()
 win.geometry("500x300")
 win.title("DATOS")
